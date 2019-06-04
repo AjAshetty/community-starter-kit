@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Counting the occurance of word in a text file.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Counts the words and gives the words count in a file.
 
 ## Getting started
 
